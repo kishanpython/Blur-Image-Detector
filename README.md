@@ -8,6 +8,6 @@ This web app can easily detect blur images that are present in you gallery.
   
   <li>Python</li>
   <li>Flask</li>
-  <li>Opencv</li>
+  <li>OpenCv</li>
   
 </ul>

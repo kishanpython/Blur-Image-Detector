@@ -2,6 +2,10 @@
 
 This web app can easily detect blur images that are present in you gallery.
 
+# Output :- 
+
+<img src="https://github.com/kishanpython/Blur-Image-Detector/blob/main/images/blur-demo.gif" alt="blur-image-demo">
+
 # Technology :-
 
 <ul>
